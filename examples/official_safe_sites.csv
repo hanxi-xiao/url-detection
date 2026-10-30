@@ -1,0 +1,13 @@
+source_url,URLLength,DomainLength,NoOfSpecialCharsInURL,IsDomainIP,NoOfSubDomain,HasSuspiciousPattern,SuspiciousPatternCount,BrandSimilarityScore,HasBrandImpersonation,UsesHTTPS,NoOfPasswordFields,HasLoginForm,HasExternalFormSubmit,NoOfIFrames,DomainTitleMatch,TitleDomainTokenOverlap,label
+https://www.baidu.com/,22,13,6,0,1,0,0,0,0,1,0,0,0,0,1,1,0
+https://www.google.com/,23,14,6,0,1,0,0,0,0,1,0,0,0,0,1,1,0
+https://www.youtube.com/,24,15,6,0,1,0,0,0,0,1,0,0,0,0,1,1,0
+https://www.microsoft.com/,26,17,6,0,1,0,0,0,0,1,0,0,0,0,1,1,0
+https://www.apple.com/,22,13,6,0,1,0,0,0,0,1,0,0,0,0,1,1,0
+https://www.amazon.com/,23,14,6,0,1,0,0,0,0,1,0,0,0,0,1,1,0
+https://www.wikipedia.org/,26,17,6,0,1,0,0,0,0,1,0,0,0,0,1,1,0
+https://www.gov.cn/,19,10,6,0,1,0,0,0,0,1,0,0,0,0,1,1,0
+https://www.taobao.com/,23,14,6,0,1,0,0,0,0,1,0,0,0,0,1,1,0
+https://www.qq.com/,19,10,6,0,1,0,0,0,0,1,0,0,0,0,1,1,0
+https://www.bilibili.com/,25,16,6,0,1,0,0,0,0,1,0,0,0,0,1,1,0
+https://www.alipay.com/,23,14,6,0,1,0,0,0,0,1,0,0,0,0,1,1,0

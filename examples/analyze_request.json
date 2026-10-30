@@ -1,0 +1,5 @@
+{
+  "requestId": "scan-example-001",
+  "url": "https://portal.example.com/login",
+  "html": "<html><head><title>Example Portal Login</title></head><body><form action='/session'><input name='username'><input type='password'></form></body></html>"
+}

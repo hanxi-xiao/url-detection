@@ -1,0 +1,13 @@
+source_url,URLLength,DomainLength,NoOfSpecialCharsInURL,IsDomainIP,NoOfSubDomain,HasSuspiciousPattern,SuspiciousPatternCount,BrandSimilarityScore,HasBrandImpersonation,UsesHTTPS,NoOfPasswordFields,HasLoginForm,HasExternalFormSubmit,NoOfIFrames,DomainTitleMatch,TitleDomainTokenOverlap,label
+https://go0gle.com/,19,10,6,0,0,0,0,1.0,1,1,0,0,0,0,0,0,1
+https://g00gle.com/,19,10,6,0,0,0,0,1.0,1,1,0,0,0,0,0,0,1
+https://baid0.com/,19,10,6,0,0,0,0,0.8,1,1,0,0,0,0,0,0,1
+https://paypa1.com/,19,10,6,0,0,0,0,1.0,1,1,0,0,0,0,0,0,1
+https://p4ypal.com/,19,10,6,0,0,0,0,0.833333,1,1,0,0,0,0,0,0,1
+https://micr0soft.com/,22,13,6,0,0,0,0,0.9,1,1,0,0,0,0,0,0,1
+https://micros0ft.com/,22,13,6,0,0,0,0,0.9,1,1,0,0,0,0,0,0,1
+https://app1e.com/,18,9,6,0,0,0,0,0.8,1,1,0,0,0,0,0,0,1
+https://amaz0n.com/,19,10,6,0,0,0,0,1.0,1,1,0,0,0,0,0,0,1
+https://youtub3.com/,20,11,6,0,0,0,0,0.857143,1,1,0,0,0,0,0,0,1
+https://faceb00k.com/,21,12,6,0,0,0,0,1.0,1,1,0,0,0,0,0,0,1
+https://wikipedi4.org/,22,13,6,0,0,0,0,0.941176,1,1,0,0,0,0,0,0,1

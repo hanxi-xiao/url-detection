@@ -1,0 +1,171 @@
+
+--- 2026-08-13T08:30:36.442102+00:00 ---
+To: employee@clearurl.local
+Subject: Confirm your ClearURL password change
+
+A password change was requested for your ClearURL account.
+
+Confirmation token: JLjTzrF_CyGvUcsSu0W-p5yDk5ZXGm9pN4xZWtHnOOo
+Confirmation link: http://127.0.0.1:8000/?confirmPasswordChange=JLjTzrF_CyGvUcsSu0W-p5yDk5ZXGm9pN4xZWtHnOOo
+
+This token expires in 30 minutes. Ignore this email if you did not request the change.
+
+--- 2026-08-13T08:30:36.507536+00:00 ---
+To: employee@clearurl.local
+Subject: Reset your ClearURL password
+
+A password reset was requested for your ClearURL account.
+
+Reset token: b8NBh3Wl9MaJZ6oN-luzWVTRKB6BoOb2XCb9U4vmy1k
+
+Enter this token in the ClearURL password recovery form. The token expires in 30 minutes.
+
+--- 2026-08-13T08:31:58.887338+00:00 ---
+To: new.employee@example.com
+Subject: Verify your ClearURL account
+
+Complete your ClearURL registration by verifying your email address.
+
+Verification token: OGYDHAjTrnDF93npNfEd95KKllXYglW2ssHTmKzLKcU
+Verification link: http://127.0.0.1:8000/?verifyEmail=OGYDHAjTrnDF93npNfEd95KKllXYglW2ssHTmKzLKcU
+
+This token expires in 30 minutes.
+
+--- 2026-08-13T08:31:58.924318+00:00 ---
+To: new.admin@example.com
+Subject: Verify your ClearURL account
+
+Complete your ClearURL registration by verifying your email address.
+
+Verification token: vbsIV0r2OEfRE0AUeN1fuCqfjovvfqE5RjDgswb7UxU
+Verification link: http://127.0.0.1:8000/?verifyEmail=vbsIV0r2OEfRE0AUeN1fuCqfjovvfqE5RjDgswb7UxU
+
+This token expires in 30 minutes.
+
+--- 2026-08-13T08:31:58.971099+00:00 ---
+To: employee@clearurl.local
+Subject: Confirm your ClearURL password change
+
+A password change was requested for your ClearURL account.
+
+Confirmation token: 6UFVKx9WbLX_FdUpJ8fUsi_cpJ7l1nwHeyqJedxQFTI
+Confirmation link: http://127.0.0.1:8000/?confirmPasswordChange=6UFVKx9WbLX_FdUpJ8fUsi_cpJ7l1nwHeyqJedxQFTI
+
+This token expires in 30 minutes. Ignore this email if you did not request the change.
+
+--- 2026-08-13T08:31:59.033894+00:00 ---
+To: employee@clearurl.local
+Subject: Reset your ClearURL password
+
+A password reset was requested for your ClearURL account.
+
+Reset token: dWrbbewR744r0gNO06XZQwEpaBmZPf7NtwtGNMocU2M
+
+Enter this token in the ClearURL password recovery form. The token expires in 30 minutes.
+
+--- 2026-08-13T08:54:45.253621+00:00 ---
+To: hxia0039@student.monash.edu
+Subject: Verify your ClearURL account
+
+Complete your ClearURL registration by verifying your email address.
+
+Verification token: YZnZbdRJ7_xbbm8L5VCuZK46-VvGPZpPsCwj5eT9BmI
+Verification link: http://127.0.0.1:8000/?verifyEmail=YZnZbdRJ7_xbbm8L5VCuZK46-VvGPZpPsCwj5eT9BmI
+
+This token expires in 30 minutes.
+
+--- 2026-08-13T08:59:36.836732+00:00 ---
+To: new.employee@example.com
+Subject: Verify your ClearURL account
+
+Complete your ClearURL registration by verifying your email address.
+
+Verification token: jAl3wPSI7V98cSg_IiWCLTer6ssYry8ZCof-UkolqF8
+Verification link: http://127.0.0.1:8000/?verifyEmail=jAl3wPSI7V98cSg_IiWCLTer6ssYry8ZCof-UkolqF8
+
+This token expires in 30 minutes.
+
+--- 2026-08-13T08:59:36.874796+00:00 ---
+To: new.admin@example.com
+Subject: Verify your ClearURL account
+
+Complete your ClearURL registration by verifying your email address.
+
+Verification token: bempkAkuKWe9It-U8-MN8DqpG0_92EotrwD-A25jXY8
+Verification link: http://127.0.0.1:8000/?verifyEmail=bempkAkuKWe9It-U8-MN8DqpG0_92EotrwD-A25jXY8
+
+This token expires in 30 minutes.
+
+--- 2026-08-13T08:59:36.923539+00:00 ---
+To: employee@clearurl.local
+Subject: Confirm your ClearURL password change
+
+A password change was requested for your ClearURL account.
+
+Confirmation token: DJGOy5sJ-0vqdXLzyDCUFNK2jkvdvOmuKc9R9Cz1P6I
+Confirmation link: http://127.0.0.1:8000/?confirmPasswordChange=DJGOy5sJ-0vqdXLzyDCUFNK2jkvdvOmuKc9R9Cz1P6I
+
+This token expires in 30 minutes. Ignore this email if you did not request the change.
+
+--- 2026-08-13T08:59:36.990296+00:00 ---
+To: employee@clearurl.local
+Subject: Reset your ClearURL password
+
+A password reset was requested for your ClearURL account.
+
+Reset token: GoHf6tAtqdCfCj2aLJdnvuKaKvOM0iueoVxZr8gkQqA
+
+Enter this token in the ClearURL password recovery form. The token expires in 30 minutes.
+
+--- 2026-08-18T14:23:07.612127+00:00 ---
+To: 3035816166@qq.com
+Subject: Verify your ClearURL account
+
+Complete your ClearURL registration by verifying your email address.
+
+Verification token: fPclk1CtenCZTIZu_l2bGhMQu40BPKjm2HxPD1CMUoI
+Verification link: http://127.0.0.1:8000/?verifyEmail=fPclk1CtenCZTIZu_l2bGhMQu40BPKjm2HxPD1CMUoI
+
+This token expires in 30 minutes.
+
+--- 2026-08-18T14:32:32.551614+00:00 ---
+To: employee@clearurl.local
+Subject: Confirm your ClearURL password change
+
+A password change was requested for your ClearURL account.
+
+Confirmation token: LMPIRU7sLGJh9wumqNP6Pg9i6Z54X04lo0kblD0-VmA
+Confirmation link: http://127.0.0.1:8000/?confirmPasswordChange=LMPIRU7sLGJh9wumqNP6Pg9i6Z54X04lo0kblD0-VmA
+
+This token expires in 30 minutes. Ignore this email if you did not request the change.
+
+--- 2026-08-18T14:32:32.610910+00:00 ---
+To: employee@clearurl.local
+Subject: Reset your ClearURL password
+
+A password reset was requested for your ClearURL account.
+
+Reset token: dIflinsxE-AGCzQfqMu_nyp0r8YFXnLcxTLDEOR6z2E
+
+Enter this token in the ClearURL password recovery form. The token expires in 30 minutes.
+
+--- 2026-08-18T14:53:40.260096+00:00 ---
+To: employee@clearurl.local
+Subject: Confirm your ClearURL password change
+
+A password change was requested for your ClearURL account.
+
+Confirmation token: -C5nOr0RrZqxxx6-g_fEZlFREVMP-E8OtYg6TOtbdXY
+Confirmation link: http://127.0.0.1:8000/?confirmPasswordChange=-C5nOr0RrZqxxx6-g_fEZlFREVMP-E8OtYg6TOtbdXY
+
+This token expires in 30 minutes. Ignore this email if you did not request the change.
+
+--- 2026-08-18T14:53:40.384216+00:00 ---
+To: employee@clearurl.local
+Subject: Reset your ClearURL password
+
+A password reset was requested for your ClearURL account.
+
+Reset token: Cw6lUQRitnafOUE4y2hARcZjh2jFny4LfTex0LfkPFw
+
+Enter this token in the ClearURL password recovery form. The token expires in 30 minutes.
